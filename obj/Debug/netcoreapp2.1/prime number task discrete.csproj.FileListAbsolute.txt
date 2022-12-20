@@ -1,0 +1,11 @@
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\bin\Debug\netcoreapp2.1\prime number task discrete.deps.json
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\bin\Debug\netcoreapp2.1\prime number task discrete.runtimeconfig.json
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\bin\Debug\netcoreapp2.1\prime number task discrete.runtimeconfig.dev.json
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\bin\Debug\netcoreapp2.1\prime number task discrete.dll
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\bin\Debug\netcoreapp2.1\prime number task discrete.pdb
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\obj\Debug\netcoreapp2.1\prime number task discrete.csprojAssemblyReference.cache
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\obj\Debug\netcoreapp2.1\prime number task discrete.csproj.CoreCompileInputs.cache
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\obj\Debug\netcoreapp2.1\prime number task discrete.AssemblyInfoInputs.cache
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\obj\Debug\netcoreapp2.1\prime number task discrete.AssemblyInfo.cs
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\obj\Debug\netcoreapp2.1\prime number task discrete.dll
+C:\Users\compu\Desktop\prime number task discrete\prime number task discrete\obj\Debug\netcoreapp2.1\prime number task discrete.pdb
